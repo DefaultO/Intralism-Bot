@@ -1,0 +1,10 @@
+C:\Users\reald\source\repos\Intralism-Ehrenlos\bin\Debug\Intralism-Ehrenlos.exe.config
+C:\Users\reald\source\repos\Intralism-Ehrenlos\bin\Debug\Intralism-Ehrenlos.exe
+C:\Users\reald\source\repos\Intralism-Ehrenlos\bin\Debug\Intralism-Ehrenlos.pdb
+C:\Users\reald\source\repos\Intralism-Ehrenlos\bin\Debug\Memory.dll
+C:\Users\reald\source\repos\Intralism-Ehrenlos\bin\Debug\Memory.xml
+C:\Users\reald\source\repos\Intralism-Ehrenlos\obj\Debug\Intralism-Ehrenlos.csprojAssemblyReference.cache
+C:\Users\reald\source\repos\Intralism-Ehrenlos\obj\Debug\Intralism-Ehrenlos.csproj.CoreCompileInputs.cache
+C:\Users\reald\source\repos\Intralism-Ehrenlos\obj\Debug\Intralism-Ehrenlos.csproj.CopyComplete
+C:\Users\reald\source\repos\Intralism-Ehrenlos\obj\Debug\Intralism-Ehrenlos.exe
+C:\Users\reald\source\repos\Intralism-Ehrenlos\obj\Debug\Intralism-Ehrenlos.pdb
